@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+.title{
+  @apply text-5xl text-[#25324B] font-[poppins] font-black p-2
+}
+/* paragraph */
+.para{
+  @apply text-2xl font-[Epilogue] text-[#25324B] font-normal pt-4
+}
+.icon{
+  @apply text-2xl 
+}
+.icondescription{
+  @apply text-[#515B6F] font-medium 
+}
+.detaildescription{
+  @apply  text-[#25324B] font-bold text-xl
+}
